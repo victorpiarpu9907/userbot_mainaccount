@@ -1,0 +1,14 @@
+# Credenciales y sesión — NUNCA commitear
+.env
+*.session
+*.session-journal
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
